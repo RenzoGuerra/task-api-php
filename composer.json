@@ -1,0 +1,7 @@
+{
+    "name": "miempresa/task-api",
+    "require": {
+        "php": ">=8.0",
+        "respect/validation": "^2.4"
+    }
+}
